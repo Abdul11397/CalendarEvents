@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{15F14B3C-BE59-456B-89B8-8667DE6C5605}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarEvents-Version2-WithLoginPasscodeEncrypt-UploadFeature Status">
+    <Files>
+      <File FileName="CalendarEvents-Version2-WithLoginPasscodeEncrypt-UploadFeature Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Ad-Hoc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalendarsTester.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
